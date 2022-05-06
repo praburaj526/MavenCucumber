@@ -8,11 +8,17 @@ private void sysout() {
 	System.out.println("c");
 
 }
-	public static void main(String[] args) {
+
+public static void main(String[] args) {
+Github g=new Github();
+	
+	g.sysout();
 
 String s ="Hello World";
 
 System.out.println(s);
+
+
 
 	}
 
